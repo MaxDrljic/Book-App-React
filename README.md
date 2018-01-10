@@ -1,3 +1,20 @@
+This is the front-end code for the book application which uses Goodreads API to fetch books data, and it is made with React & Redux. Also, I made user authentication so people can login, register and save books they like. 
+
+To make the whole application work, you will need the Book-App-Back-End code, as well as NodeJS, MongoDB and Yarn package manager. Be sure to download the files from the official websites, just Google the things you need to download.
+
+
+1. Clone the repo.
+
+2. cd into project and do `npm install`.
+
+3. Execute `yarn start` to start the application.
+
+If you want to change config files you can do it in package.json and yarn.lock, and check the config in .eslintrc to setup eslint.
+
+
+LONG DESCRIPTION BELOW :
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
